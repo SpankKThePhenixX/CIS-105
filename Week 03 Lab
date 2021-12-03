@@ -1,0 +1,6 @@
+The goal of this lab was to complete the Try Hack Me room "Introductory Networking."  The room starts by giving a brief intro to the objectives of the room which are 
+to explain the OSI model, encapsulation, the TCP/IP model, followed by a collection of linux network information and troubleshooting tools.  Finally, the room ends with
+some suggested reading to get more practice for the subject I found encapsulation to be a pretty enlightening topic in particular.  The process is actually both quite 
+simple. The first three sections each explain the topic then follow with quiz questions on each topic.  The networking tools sections each explain a particular linux 
+tool, then have you find or try out different functions or commands by asking about how they work.  Examples of this are restricting ping requests to IPv4 with the -4
+command, specifying an interface on trace route with the -i command, or even asking about where your computer would first look to find a domain's IP address.
